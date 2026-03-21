@@ -58,6 +58,7 @@ Tetravalency of carbon, shapes of simple molecules, hybridization (s and p), cla
 # Study Strategy
 
 • Revise theory and formulas  
+• make sure that you got a good grip on the mentioned subtopics 
 • Solve previous year JEE questions  
 • Practice ~30–40 questions per subject  
 • Focus on conceptual clarity
