@@ -54,7 +54,35 @@ Calculations of empirical formula and molecular formula, numerical problems in o
 Tetravalency of carbon, shapes of simple molecules, hybridization (s and p), classification of organic compounds based on functional groups, compounds containing halogens, oxygen, nitrogen and sulphur, homologous series, structural isomerism, stereoisomerism.
 
 ---
+# Day 2 Topics
+## Mathematics
+### statistics and probability
+Measures of dispersion; calculation of mean, median, mode of grouped and
+ungrouped data, calculation of standard deviation, variance and mean
+deviation for grouped and ungrouped data. Probability: Probability of an event,
+addition and multiplication theorems of probability, Baye's theorem, probability
+distribution of a random variable.
 
+## Physics
+### Work, Energy and Power
+Work done by a constant force and a variable force, kinetic and potential energies,
+work-energy theorem, power.
+The potential energy of a spring, conservation of mechanical energy,
+conservative and non- conservative forces, motion in a vertical circle. Elastic
+and inelastic collisions in one and two dimensions.
+
+### Gravitation
+
+The universal law of gravitation. Acceleration due to gravity and its variation
+with altitude and depth. Kepler’s law of planetary motion. Gravitational potential
+energy, gravitational potential. Escape velocity, motion of a satellite, orbital
+velocity, time period and energy of satellite.
+
+## Chemistry
+### P-block elements
+Group -13 to Group 18 Elements
+General Introduction: Electronic configuration and general trends in physical and chemical properties of
+elements across the periods and down the groups, unique behaviour of the first element in each group.
 # Study Strategy
 
 • Revise theory and formulas  
