@@ -83,6 +83,43 @@ velocity, time period and energy of satellite.
 Group -13 to Group 18 Elements
 General Introduction: Electronic configuration and general trends in physical and chemical properties of
 elements across the periods and down the groups, unique behaviour of the first element in each group.
+
+# Day 3 Topics
+## Mathematics
+### MATRICES AND DETERMINANTS:
+Matrices, algebra of matrices, type of matrices, determinants and matrices of
+order two and three, evaluation of determinants, area of triangles using
+determinants; Adjoint and inverse of a square matrix; Test of consistency and
+solution of simultaneous linear equations in two or three variables using matrices.
+### VECTOR ALGEBRA :
+Vectors and scalars, the addition of vectors, components of a vector in two
+dimensions and three-dimensional spaces, scalar and vector products.
+
+## Physics
+### Rotational Motion
+Centre of mass of a two-particle system, centre of mass of a rigid body. Basic
+concepts of rotational motion, moment of a force, torque, angular momentum,
+conservation of angular momentum and its applications.
+The moment of inertia, the radius of gyration, values of moments of inertia for
+simple geometrical objects, parallel and perpendicular axes theorems and their
+applications. Equilibrium of rigid bodies, rigid body rotation and equations of
+rotational motion, comparison of linear and rotational motions.
+
+## Chemistry
+### d - and f- BLOCK ELEMENTS
+Transition Elements - General introduction, electronic configuration, occurrence and characteristics,
+general trends in properties of the first-row transition elements - physical properties, ionization enthalpy,
+oxidation states, atomic radii, colour, catalytic behaviour, magnetic properties, complex formation,
+interstitial compounds, alloy formation, preparation, properties and uses of K2Cr2O7 and KMnO4.
+Inner Transition Elements
+Lanthanoids- Electronic configuration, oxidation states and Lanthanoid contraction.
+Actinoids- Electronic configuration and oxidation states.
+
+### Alkanes
+Classification, isomerism, IUPAC nomenclature, general methods of preparation, properties and reactions.
+Alkanes- Conformations: Sawhorse and Newman projections (of ethane), mechanism of halogenation of
+alkanes.
+
 # Study Strategy
 
 • Revise theory and formulas  
