@@ -120,6 +120,46 @@ Classification, isomerism, IUPAC nomenclature, general methods of preparation, p
 Alkanes- Conformations: Sawhorse and Newman projections (of ethane), mechanism of halogenation of
 alkanes.
 
+
+# day 4 topics 
+## Maths
+### COMPLEX NUMBERS AND QUADRATIC EQUATIONS:
+Complex numbers as ordered pairs of reals, Representation of complex numbers
+in the form a + ib and their representation in a plane, Argand diagram, algebra of
+complex numbers, modulus and argument (or amplitude) of a complex number,
+Quadratic equations in real and complex number systems and their solutions;
+Relations between roots and coefficients, nature of roots, the formation of
+quadratic equations with given roots.
+### BINOMIAL THEOREM AND ITS SIMPLE APPLICATIONS:
+Binomial theorem for a positive integral index, general term and middle term and
+simple applications.
+## physics
+### Properties of Solids and Liquids
+Elastic behaviour, stress-strain relationship, Hooke's Law, Young's modulus,
+bulk modulus and modulus of rigidity.
+Pressure due to a fluid column, Pascal's law and its applications, effect of gravity
+on fluid pressure, viscosity, Stoke’s law, terminal velocity, streamline and
+turbulent flow, critical velocity, Bernoulli's principle and its applications.
+Surface energy and surface tension, angle of contact, excess of pressure across a
+curved surface, application of surface tension: drops, bubbles and capillary rise.
+Heat, temperature, thermal expansion, specific heat capacity, calorimetry,
+change of state, latent heat. Heat transfer: conduction, convection and radiation.
+## chem
+### COORDINATION COMPOUNDS
+Introduction to coordination compounds. Werner's theory, ligands, coordination number, denticity,
+chelation, IUPAC nomenclature of mononuclear co-ordination compounds, isomerism, Bonding: Valence
+bond approach and basic ideas of Crystal field theory, colour and magnetic properties, importance of
+coordination compounds (in qualitative analysis, extraction of metals and in biological systems).
+#### Alkenes- 
+Geometrical isomerism, mechanism of electrophilic addition, addition of hydrogen, halogens,
+water, hydrogen halides (Markownikoffs and peroxide effect), Ozonolysis and polymerization.
+#### Alkynes- 
+Acidic character, addition of hydrogen, halogens, water and hydrogen halides, polymerization.
+#### Aromatic hydrocarbons- 
+Nomenclature, benzene - structure and aromaticity, mechanism of electrophilic
+substitution, halogenation, nitration.
+Friedel-Craft's alkylation and acylation, directive influence of the functional group in mono- substituted
+benzene.
 # Study Strategy
 
 • Revise theory and formulas  
