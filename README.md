@@ -160,6 +160,70 @@ Nomenclature, benzene - structure and aromaticity, mechanism of electrophilic
 substitution, halogenation, nitration.
 Friedel-Craft's alkylation and acylation, directive influence of the functional group in mono- substituted
 benzene.
+
+
+# day 5 topics 
+todays topics are little heavy so take your time and understand them properly , do as much as u can and tell me upto where did you complete them 
+## maths
+### LIMIT, CONTINUITY AND DIFFERENTIABILITY:
+Real–valued functions, algebra of functions; polynomial, rational, trigonometric,
+logarithmic and exponential functions; inverse functions. Graphs of simple
+functions. Limits, continuity and differentiability. Differentiation of the sum,
+difference, product and quotient of two functions. Differentiation of
+trigonometric, inverse trigonometric, logarithmic, exponential, composite and
+implicit functions; derivatives of order upto two, Applications of derivatives:
+Rate of change of quantities, monotonic-Increasing and decreasing functions,
+Maxima and minima of functions of one variable.
+### TRIGONOMETRY :
+Trigonometrical identities and trigonometrical functions, inverse trigonometrical
+functions their properties.
+
+## physics 
+### Thermodynamics
+#### take some time to read this ask me if any doubts 
+Thermal equilibrium and the concept of temperature, zeroth law of
+thermodynamics, heat, work and internal energy. The first law of
+thermodynamics, isothermal and adiabatic processes. The second law of
+thermodynamics: reversible and irreversible processes.
+### Kinetic Theory of Gases
+Equation of state of a perfect gas, work done on compressing a gas, kinetic
+theory of gases: assumptions, the concept of pressure, kinetic interpretation of
+temperature, RMS speed of gas molecules, degrees of freedom, law of
+equipartition of energy and applications to specific heat capacities of gases,
+mean free path, Avogadro's number.
+### Atoms and Nuclei
+Alpha-particle scattering experiment, Rutherford's model of atom, Bohr model,
+energy levels, hydrogen spectrum. Composition and size of nucleus, atomic
+masses, mass-energy relation, mass defect, binding energy per nucleon and its
+variation with mass number, nuclear fission and fusion.
+###  Electronic Devices
+Semiconductors, semiconductor diode: I-V characteristics in forward and
+reverse bias, diode as a rectifier; I-V characteristics of LED, the photodiode,
+solar cell, Zener diode, Zener diode as a voltage regulator.
+Logic gates (OR. AND. NOT. NAND and NOR).
+
+## chemistry 
+### ORGANIC COMPOUNDS CONTAINING HALOGENS
+General methods of preparation, properties and reactions, nature of C-X bond, mechanisms of
+substitution reactions.
+Uses, environmental effects of chloroform, iodoform, freons and DDT.
+
+### ORGANIC COMPOUNDS CONTAINING OXYGEN
+General methods of preparation, properties, reactions and uses.
+ALCOHOLS, PHENOLS AND ETHERS
+Alcohols: Identification of primary, secondary and tertiary alcohols, mechanism of dehydration.
+Phenols: Acidic nature, electrophilic substitution reactions, halogenation, nitration and sulphonation,
+Reimer - Tiemann reaction.
+Ethers: Structure.
+Aldehyde and Ketones: Nature of carbonyl group, nucleophilic addition to >C=O group, relative
+reactivities of aldehydes and ketones, important reactions such as - Nucleophilic addition reactions
+(addition of HCN, NH3 and its derivatives), Grignard reagent, oxidation, reduction (Wolf Kishner and
+### ORGANIC COMPOUNDS CONTAINING NITROGEN
+General methods of preparation, properties, reactions and uses.
+Amines: Nomenclature, classification, structure, basic character and identification of primary, secondary
+and tertiary amines and their basic character.
+Diazonium Salts: Importance in synthetic organic chemistry.
+
 # Study Strategy
 
 • Revise theory and formulas  
