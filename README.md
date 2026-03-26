@@ -224,6 +224,38 @@ Amines: Nomenclature, classification, structure, basic character and identificat
 and tertiary amines and their basic character.
 Diazonium Salts: Importance in synthetic organic chemistry.
 
+# Day 6
+## Mathematics 
+### INTEGRAL CALCULAS:
+Integral as an anti-derivative, Fundamental integrals involving algebraic,
+trigonometric, exponential and logarithmic functions. Integration by substitution,
+by parts and by partial fractions. Integration using trigonometric identities.
+Evaluation of simple integrals of the type
+## physics
+### Oscillations and Waves
+Oscillations and periodic motion: time period, frequency, displacement as a
+function of time, periodic functions. Simple harmonic motion (S.H.M.) and its
+equation, phase, oscillations of a spring: restoring force and force constant,
+energy in S.H.M.: kinetic and potential energies, simple pendulum: derivation
+of expression for its time period.
+Wave motion, longitudinal and transverse waves, speed of the travelling wave,
+displacement relation for a progressive wave, principle of superposition of
+waves, reflection of waves, standing waves in strings and organ pipes,
+fundamental mode and harmonics, beats.
+### Dual Nature of Matter and Radiation
+Dual nature of radiation, Photoelectric effect, Hertz and Lenard's observations,
+Einstein's photoelectric equation, particle nature of light. Matter waves: wave
+nature of particle, de- Broglie relation.
+### Electromagnetic Waves
+Displacement current, electromagnetic waves and their characteristics,
+transverse nature of electromagnetic waves, electromagnetic spectrum (radio
+waves, microwaves, infrared, visible, ultraviolet, X-rays, Gamma rays),
+applications of electromagnetic waves.
+## chemistry 
+### BIOMOLECULES
+total biomolecules , study thoroughly , and try remember u have practice sheets of it practice them also and revise any pending topics till now u should be perfect in chemistry organic and inorganic chemistry till now 
+
+
 # Study Strategy
 
 • Revise theory and formulas  
