@@ -255,6 +255,50 @@ applications of electromagnetic waves.
 ### BIOMOLECULES
 total biomolecules , study thoroughly , and try remember u have practice sheets of it practice them also and revise any pending topics till now u should be perfect in chemistry organic and inorganic chemistry till now 
 
+# day7
+## maths
+### DIFFRENTIAL EQUATIONS :
+Ordinary differential equations, their order and degree, the solution of differential
+equation by the method of separation of variables, solution of a homogeneous
+𝑑
+and linear differential equation of the type
+## physics 
+### Electrostatics
+Electric charges: conservation of charge, Coulomb's law forces between two
+point charges, forces between multiple charges, superposition principle and
+continuous charge distribution.
+Electric field: electric field due to a point charge, electric field lines, electric
+dipole, electric field due to a dipole, torque on a dipole in a uniform electric
+field.
+Electric flux, Gauss's law and its applications to find field due to infinitely long
+uniformly charged straight wire, uniformly charged infinite plane sheet and
+uniformly charged thin spherical shell.
+Electric potential and its calculation for a point charge, electric dipole and
+system of charges, potential difference, equipotential surfaces, electrical
+potential energy of a system of two point charges and of electric dipole in an
+electrostatic field.
+Conductors and insulators, dielectrics and electric polarization, capacitors and
+capacitance, the combination of capacitors in series and parallel and capacitance
+of a parallel plate capacitor with and without dielectric medium between the
+plates, energy stored in a capacitor.
+## chem 
+### REDOX REACTIONS AND ELECTROCHEMISTRY
+Electronic concepts of oxidation and reduction, redox reactions, oxidation number, rules for assigning
+oxidation number and balancing of redox reactions.
+Electrolytic and metallic conduction, conductance in electrolytic solutions, molar variation with concentration, Kohlrausch’s law and its applications.
+conductivities and their
+Electrochemical cells - Electrolytic and Galvanic cells, different types of electrodes, electrode potentials
+including standard electrode potential, half-cell and cell reactions, emf of a Galvanic cell and its
+measurement, Nernst equation and its applications, relationship between cell potential and Gibbs' energy
+change, dry cell and lead accumulator, fuel cells.
+
+### CHEMICAL KINETICS
+Rate of a chemical reaction, factors affecting the rate of reactions: concentration, temperature, pressure
+and catalyst, elementary and complex reactions, order and molecularity of reactions, rate law, rate
+constant and its units, differential and integral forms of zero and first-order reactions, their
+characteristics and half-lives, the effect of temperature on the rate of reactions, Arrhenius theory,
+activation energy and its calculation, collision theory of bi-molecular gaseous reactions (no derivation).
+
 
 # Study Strategy
 
