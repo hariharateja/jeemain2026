@@ -299,7 +299,58 @@ constant and its units, differential and integral forms of zero and first-order 
 characteristics and half-lives, the effect of temperature on the rate of reactions, Arrhenius theory,
 activation energy and its calculation, collision theory of bi-molecular gaseous reactions (no derivation).
 
+# Day8
+## maths 
+### CO-ORDINATE GEOMETRY :
+Cartesian system of rectangular coordinates in a plane, distance formula, sections
+formula, locus and its equation, the slope of a line, parallel and perpendicular
+lines, intercepts of a line on the co-ordinate axis.
+Straight line: Various forms of equations of a line, intersection of lines, angles
+between two lines, conditions for concurrence of three lines, the distance of a
+point form a line, co-ordinate of the centroid, orthocentre and circumcentre of a
+triangle.
+Circle, conic sections: A standard form of equations of a circle, the general
+form of the equation of a circle, its radius and centre, equation of a circle when
+the endpoints of a diameter are given, points of intersection of a line and a circle
+with the centre at the origin and sections of conics, equations of conic sections
+(parabola, ellipse and hyperbola) in standard forms.
 
+## physics 
+### Electric current: 
+drift velocity, mobility and their relation with electric current,
+Ohm's law, electrical resistance, I-V characteristics of Ohmic and non-ohmic
+conductors, electrical energy and power, electrical resistivity and conductivity,
+series and parallel combinations of resistors, temperature dependence of
+resistance.
+Internal resistance, potential difference and emf of a cell, a combination of cells
+in series and parallel.
+Kirchhoff’s laws and their applications, Wheatstone bridge, Metre Bridge.
+### and also revise theory topics , last chapters 
+
+## chemistry 
+### SOME BASIC CONCEPTS IN CHEMISTRY
+Matter and its nature, Dalton's atomic theory, Concept of atom, molecule, element and compound, Laws of
+chemical combination, Atomic and molecular masses, mole concept, molar mass, percentage composition,
+empirical and molecular formulae, Chemical equations and stoichiometry.
+### SOLUTIONS
+Different methods for expressing the concentration of solution - molality, molarity, mole fraction,
+percentage (by volume and mass both), the vapour pressure of solutions and Raoult's Law - Ideal and non-
+ideal solutions, vapour pressure - composition, plots for ideal and non- ideal solutions, Colligative
+properties of dilute solutions - a relative lowering of vapour pressure, depression of freezing point, the
+elevation of boiling point and osmotic pressure, determination of molecular mass using colligative
+properties, abnormal value of molar mass, van’t Hoff factor and its significance.
+### EQUILIBRIUM
+Meaning of equilibrium is the concept of dynamic equilibrium.
+Equilibria involving physical processes: Solid-liquid, liquid-gas, gas-gas and solid-gas equilibria,
+Henry's law. General characteristics of equilibrium involving physical processes.
+Equilibrium involving chemical processes: Law of chemical equilibrium, equilibrium constants (Kp and
+Kc) and their significance, the significance of Δ G and Δ G ° in chemical equilibrium, factors affecting
+equilibrium concentration, pressure, temperature, the effect of catalyst, Le Chatelier’s principle.
+Ionic equilibrium: Weak and strong electrolytes, ionization of electrolytes, various concepts of acids and
+bases (Arrhenius, Bronsted - Lowry and Lewis) and their ionization, acid-base equilibria (including
+multistage ionization) and ionization constants, ionization of water, pH scale, common ion effect,
+hydrolysis of salts and pH of their solutions, the solubility of sparingly soluble salts, solubility products
+and buffer solutions.
 # Study Strategy
 
 • Revise theory and formulas  
