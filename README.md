@@ -351,8 +351,50 @@ bases (Arrhenius, Bronsted - Lowry and Lewis) and their ionization, acid-base eq
 multistage ionization) and ionization constants, ionization of water, pH scale, common ion effect,
 hydrolysis of salts and pH of their solutions, the solubility of sparingly soluble salts, solubility products
 and buffer solutions.
-# Study Strategy
 
+# day9 prolly last 
+Complete as much as possible even if not continue in campus and do revise important topics , read experiments for physics and chemistry revise them 
+and that's all from my side, all the very best for your exam stay calm , and do your best , you are responsible for your self , so keep in mind and don't ever get discouraged , we all are with you , we will support you , just give your best , never think of result , even though you don't do all problems , you should feel satisfied when you complete your exam , " i gave my full !!" , so be happy and stay calm , we are proud of u 
+## Physics 
+### Magnetic Effects of Current and Magnetism
+Biot - Savart law and its application to the current carrying circular loop,
+Ampere's law and its applications to infinitely long current carrying straight
+wire and solenoid.
+Force on a moving charge in uniform magnetic and electric fields, force on a
+current-carrying conductor in a uniform magnetic field, the force between two
+parallel currents carrying conductors-definition of ampere, torque experienced
+by a current loop in a uniform magnetic field: Moving coil galvanometer, its
+sensitivity and conversion to ammeter and voltmeter.
+Current loop as a magnetic dipole and its magnetic dipole moment, bar magnet as
+an equivalent solenoid, magnetic field lines, magnetic field due to a magnetic
+dipole (bar magnet) along its axis and perpendicular to its axis, torque on a
+magnetic dipole in a uniform magnetic field, para-
+, dia- and ferromagnetic
+substances with examples, the effect of temperature on magnetic properties.
+### Electromagnetic Induction and Alternating Currents
+Electromagnetic induction: Faraday's law, induced emf and current, Lenz’s law,
+eddy currents, self and mutual inductance.
+Alternating currents, peak and RMS value of alternating current/voltage,
+reactance and impedance, LCR series circuit, resonance, power in AC circuits,
+wattless current, AC generator and transformer.
+### Optics
+Reflection of light, spherical mirrors, mirror formula. Refraction of light at
+plane and spherical surfaces, thin lens formula and lens maker formula, total
+internal reflection and its applications, magnification, power of a lens,
+combination of thin lenses in contact, refraction of light through a prism,
+microscope and astronomical telescope (reflecting and refracting ) and their
+magnifying powers.
+Wave optics: wavefront and Huygens ‘Principle, laws of reflection and
+refraction using Huygens principle. Interference: Young's double-slit
+experiment and expression for fringe width, coherent sources and sustained
+interference of light. Diffraction due to a single slit, width of central maximum.
+Polarization: plane-polarized light, Brewster's law, uses of plane- polarized
+light and Polaroid.
+## Chemistry 
+### Atomic structure 
+### chemical bonding 
+### thermodynamics 
+# Study Strategy
 • Revise theory and formulas  
 • make sure that you got a good grip on the mentioned subtopics 
 • Solve previous year JEE questions  
